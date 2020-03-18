@@ -1,0 +1,27 @@
+h1 {
+  color: white;
+  font-size: 100px;
+  text-align: center;
+
+}
+#main {
+  background-image:  url("8029.jpg_wh860.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.columms a {
+  text-decoration: none;
+  font-size: 50px;
+  margin-left: 20px;
+  color: white;
+}
+.text {
+  font-size: 100px;
+  color: white;
+  text-align: center;
+}
+#contacts .accounts{
+  font-size: 50px;
+}
